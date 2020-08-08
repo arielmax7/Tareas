@@ -4,4 +4,4 @@ Ejecutar scritps de manera automatica es algo muy necesario en estos tiempos aut
 
 ## Documentación oficial de lumen
 
-La documentación para el framework se puede encontrar ene [Lumen website](https://lumen.laravel.com/docs).
+La documentación para el framework se puede encontrar en: [Lumen website](https://lumen.laravel.com/docs).
