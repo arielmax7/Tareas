@@ -1,0 +1,1 @@
+SCHTASKS /Create /sc minute /mo 1 /tn "tareas" /tr C:\xampp\htdocs\tareas\schtasks\register.vbs /f
